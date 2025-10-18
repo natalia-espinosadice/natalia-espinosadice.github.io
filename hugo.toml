@@ -5,7 +5,7 @@ theme = "typo"
 enableRobotsTXT = true
 
 [params]
-  description = "RL, locomotion, synthetic EMR"
+  description = "research interests"
   defaultTheme = "auto"   # light/dark auto
 [menu]
   [[menu.main]]
