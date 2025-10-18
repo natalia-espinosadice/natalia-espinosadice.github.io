@@ -1,0 +1,9 @@
+baseURL = "https://natalia-espinosadice.github.io/"
+languageCode = "en-us"
+title = "Natalia Espinosa Dice"
+theme = "typo"
+enableRobotsTXT = true
+
+[params]
+  description = "RL, locomotion, synthetic EMR"
+  defaultTheme = "auto"   # light/dark auto
