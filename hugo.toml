@@ -6,17 +6,17 @@ enableRobotsTXT = true
 
 [params]
   description = "research interests"
-  defaultTheme = "auto"   # light/dark auto
-[menu]
-  [[menu.main]]
+  defaultTheme = "auto"
+
+  # Header menu for Typo:
+  [[params.menu]]
     name = "About"
-    url = "/about/"
-    weight = 1
-  [[menu.main]]
+    url  = "/about"
+
+  [[params.menu]]
     name = "Projects"
-    url = "/projects/"
-    weight = 2
-  [[menu.main]]
+    url  = "/projects"
+
+  [[params.menu]]
     name = "Blog"
-    url = "/posts/"
-    weight = 3
+    url  = "/posts"
