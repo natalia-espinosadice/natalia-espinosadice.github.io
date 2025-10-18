@@ -1,5 +1,5 @@
 +++
-qr wdraft = false
+draft = false
 title = ''
 +++
 # Senior undergraduate at Princeton University 
