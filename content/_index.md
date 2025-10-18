@@ -1,6 +1,22 @@
 +++
-date = '2025-10-18T13:33:34-04:00'
-draft = false
+qr wdraft = false
 title = ''
 +++
-Hi im natalia. This website is in progress. 
+# Senior undergraduate at Princeton University 
+
+About me paragraph....
+
+
+**Links:**
+[CV](/cv.pdf) · [Google Scholar](https://scholar.google.com/) · [GitHub](https://github.com/natalia-espinosadice) · [LinkedIn](https://www.linkedin.com/) · [Email](mailto:nespinosadice22@gmail.com)
+
+---
+
+## Publications 
+
+- **Sample Paper.** *Preprint, 2025* 
+
+
+---
+*Last updated: {{< now "January 2006" >}}*
+
