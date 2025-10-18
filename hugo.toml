@@ -11,12 +11,9 @@ enableRobotsTXT = true
   # Header menu for Typo:
   [[params.menu]]
     name = "About"
-    url  = "/about"
+    url  = "about"
 
   [[params.menu]]
     name = "Projects"
-    url  = "/projects"
+    url  = "projects"
 
-  [[params.menu]]
-    name = "Blog"
-    url  = "/posts"
