@@ -1,6 +1,6 @@
 +++
 draft = false
-title = ''
+title = 'Home'
 +++
 # Senior undergraduate at Princeton University 
 
@@ -18,5 +18,5 @@ About me paragraph....
 
 
 ---
-*Last updated: {{< now "January 2006" >}}*
+*Last updated: {{< "October 2025"}}*
 
