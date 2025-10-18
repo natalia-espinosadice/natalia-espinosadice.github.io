@@ -1,10 +1,12 @@
 +++
-draft = false
+draft = True
 title = 'Home'
 +++
-### Senior undergraduate at Princeton University 
+**Senior at Princeton University**
 
-About me paragraph....
+I'm a senior undergraduate in Computer Science at Princeton University, advised by Tom Griffiths. I am a 
+
+
 
 
 [CV](/cv.pdf) · [Google Scholar](https://scholar.google.com/) · [GitHub](https://github.com/natalia-espinosadice) · [LinkedIn](https://www.linkedin.com/) · [Email](mailto:nespinosadice22@gmail.com)
