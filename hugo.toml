@@ -8,7 +8,6 @@ enableRobotsTXT = true
   description = "research interests"
   defaultTheme = "auto"
 
-  # Header menu for Typo:
   [[params.menu]]
     name = "/Projects"
     url  = "projects"
