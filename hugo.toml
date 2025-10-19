@@ -15,5 +15,8 @@ enableRobotsTXT = true
         name = "Projects"
         url  = "/projects"
 
-
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 

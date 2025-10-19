@@ -1,0 +1,52 @@
+
+<div style="display: flex; align-items: center; gap: 25px; margin-bottom: 25px;">
+
+  <div style="flex: 1; text-align: left;">
+    <p>
+      I am a senior undergraduate in Computer Science at Princeton University, where I am advised by Tom Griffiths. 
+      I am pursuing minors in Cognitive Science and Latin American Studies. 
+      I am also a Writing Center Head Fellow and Editor-In-Chief of the 
+      <a href="https://tortoise.princeton.edu/"><i>Tortoise</i></a> Journal.
+    </p>
+  </div>
+
+  <div style="flex: 0 0 360px;">
+    <img src="/images/IMG_4823.png" alt="My profile picture" 
+         style="max-width: 100%; border-radius: 8px;">
+  </div>
+
+</div>
+
+
+I am broadly interested in **reinforcement learning** as a methodology for building more efficient, generalizable and structured AI systems. At Vanderbilt University Medical Center, I developed a [sample-efficient RL-based generative model for privacy-preserving synthetic health data](projects/#sample-efficient-synthetic-data-generation-via-reinforcement-learning) that outperformed existing state-of-the-art GAN and diffusion models, particularly when confronted with limited training samples. For my [junior thesis](projects/#learning-to-walk-like-humans-do) at Princeton, I explored how an agent could ‘learn to walk like humans do’ via a developmentally inspired RL curriculum and expanding neural networks. My [senior thesis](projects/#hierarchical-developmental-rl) extends this work by introducing a hierarchical reinforcement learning framework that sequences motor skills through value functions, enabling online composition. I am also currently investigating how [deliberation](projects/#deliberation-in-rl) at inference time can improve performance in continuous control tasks. 
+
+My research is more broadly motivated by human-centered AI: both how AI can help humans, and how insights from human learning and cognition can inspire more efficient AI systems. Previously, I’ve worked on various applications of machine learning in healthcare settings. At Dasion, I built a [voice analysis model](projects/#voice-based-machine-learning-for-diagnosis) to detect various medical conditions - including autism, diabetes and depression - from audio data. I also visited the University of Macedonia - Thessaloniki for a summer, where I built a [stacked autoencoder model](projects/#classifying-and-understanding-autism-from-brain-scans) to classify MRI brain scans as autistic or normally developing. 
+
+**I am applying to PhD and Master’s programs this application cycle.**
+
+
+<p style="text-align:center; font-size: 2.5em;"> 
+  <a href="/cv.pdf" title="CV"><i class="ai ai-cv"></i></a> &nbsp; 
+  <a  title="Google Scholar"><i class="ai ai-google-scholar"></i></a> &nbsp; 
+  <a href="https://github.com/natalia-espinosadice" title="GitHub"><i class="fab fa-github"></i></a> &nbsp; 
+  <a href="https://www.linkedin.com/in/natalia-espinosa-dice" title="LinkedIn"><i class="fab fa-linkedin"></i></a> &nbsp; 
+  <a href="mailto:nespinosadice22@gmail.com" title="Email"><i class="fas fa-envelope"></i></a> 
+
+<hr style="border: 0; border-top: 1px solid #ddd; margin: 2em 0;">
+
+</style>
+
+<hr style="border: 0; border-top: 1px solid #ddd; margin: 2em 0;">
+## Publications 
+
+**Sample-Efficient Synthetic Data Generation via Reinforcement Learning**  
+**Natalia Espinosa Dice**, Nicholas Jackson, Brad Malin  
+*Preprint*  
+Paper/Code coming soon!
+ 
+
+<hr style="border: 0; border-top: 1px solid #ddd; margin: 2em 0;">
+
+*Updated October 2025*
+
+
