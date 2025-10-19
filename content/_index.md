@@ -53,6 +53,8 @@ title = 'Home'
             <strong>Sample-Efficient Synthetic Data Generation via Reinforcement Learning</strong><br>
             Preprint coming soon!
             </div>
+          <hr style="border: 0; border-top: 1px solid #ddd; margin: 2em 0;">
+          Last updated October 2025
         </main>  
     </div>
   </div>
