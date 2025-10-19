@@ -51,9 +51,7 @@ title = 'Home'
         <h2>Publications</h2>
             <div class="pub-card">
             <strong>Sample-Efficient Synthetic Data Generation via Reinforcement Learning</strong><br>
-            <strong>Natalia Espinosa Dice</strong>, Nicholas Jackson, Brad Malin<br>
-            <span class="pub-venue">Preprint</span><br>
-            Paper/Code coming soon!
+            Preprint coming soon!
             </div>
         </main>  
     </div>
