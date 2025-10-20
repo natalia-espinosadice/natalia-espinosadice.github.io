@@ -22,7 +22,7 @@ title = 'Home'
     <div class ="rightcol">
         <main class="content">
         <p>
-            I am a senior undergraduate in Computer Science at Princeton University, where I am advised by Tom Griffiths. I am pursuing minors in Cognitive Science and Latin American Studies. I also serve as a <a href = "https://writing.princeton.edu/undergraduates/writing-center"> Writing Center </a> Head Fellow and Editor-In-Chief of the <a href="https://tortoise.princeton.edu/"><i>Tortoise</i></a> Journal.
+            I am a senior undergraduate in Computer Science at Princeton University, where I am advised by <a href = "https://cocosci.princeton.edu/tom/index.php"> Tom Griffiths </a>. I am pursuing minors in Cognitive Science and Latin American Studies. I also serve as a <a href = "https://writing.princeton.edu/undergraduates/writing-center"> Writing Center </a> Head Fellow and Editor-In-Chief of the <a href="https://tortoise.princeton.edu/"><i>Tortoise</i></a> Journal.
         </p>
         <p>
             I am broadly interested in <strong>reinforcement learning</strong> as a methodology for building more efficient,
