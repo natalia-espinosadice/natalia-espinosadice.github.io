@@ -12,8 +12,8 @@ enableRobotsTXT = true
         url = "/"
         weight = 1
     [[params.menu]]
-        name = "Projects"
-        url  = "/projects"
+        name = "Research"
+        url  = "/research"
 
 [markup]
   [markup.goldmark]
