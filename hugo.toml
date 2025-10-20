@@ -6,11 +6,13 @@ enableRobotsTXT = true
 
 [params]
     defaultTheme = "auto"
-    
     [[params.menu]]
         name = "Home"
         url = "/"
         weight = 1
+    [[params.menu]]
+        name = "Publications"
+        url  = "/publications"
     [[params.menu]]
         name = "Research"
         url  = "/research"
@@ -19,4 +21,7 @@ enableRobotsTXT = true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+    [markup.goldmark.parser]
+      unsafe = true
 
+  
