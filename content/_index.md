@@ -36,9 +36,7 @@ title = 'Home'
             could ‘learn to walk like humans do’ via a developmentally inspired RL curriculum and expanding neural networks.
             My <a href="projects/#hierarchical-developmental-rl">senior thesis</a> extends this work by introducing a
             hierarchical reinforcement learning framework that sequences motor skills through value functions, enabling online
-            composition. I am also currently investigating how
-            <a href="projects/#deliberation-in-rl">deliberation</a> at inference time can improve performance in continuous
-            control tasks.
+            composition. 
         </p>
         <p>
             My research is more broadly motivated by human-centered AI: both how AI can help humans, and how insights from human learning and cognition can inspire more efficient algorithms. Previously, I’ve worked on various applications of machine learning in healthcare settings. At Dasion, I built a

@@ -31,8 +31,6 @@ Synthetic health data offers a powerful tool for enabling machine learning resea
 
 This project investigated the role of representations in MR.Q, a generalist reinforcement learning algorithm. We asked two key questions: (i) Does an explicit planner still matter once you have a strong MR.Q-style representation? and (ii) How small can that representation become before performance deteriorates? We found that a one-step planning update often failed to help and even hurt performance - particularly in sparse-reward, pixel-based Atari tasks - while scaling down representation size proved more forgiving in discrete or lower-dimensional domains than in complex continuous-control settings. 
 
-### Deliberation in RL 
-[Coming soon]
 
 ## 2024 
 <hr style="border: 0; border-top: 1px solid #ddd; margin: 2em 0;">
