@@ -3,12 +3,6 @@ draft = false
 title = 'Research'
 +++
 
-
-### Hierarchical Developmental RL
-*Senior Thesis at Princeton University, Present*  
-
-This work introduces a hierarchical reinforcement learning framework inspired by human developmental trajectories. Individual motor skills are trained separately with their own policies and value functions. A higher-level controller then selects among these skills by consulting their value functions, enabling online composition and recovery if the agent falls. So far, we've tested our approach in toy environments (LunarLander, Cartpole swing-up) and are working to extend the method to full Humanoid locomotion.
-
 ### Learning to Walk Like Humans Do
 *Junior Thesis at Princeton University, Spring 2025*  
 [PDF](/juniorthesis_spring25.pdf) | [Code](https://github.com/natalia-espinosadice/learning-to-walk-rl)

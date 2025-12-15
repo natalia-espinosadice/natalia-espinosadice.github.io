@@ -57,13 +57,6 @@ title = 'Home'
         <hr style="border: 0; border-top: 1px solid #ddd; margin: 2em 0;">
         <h2>Research</h2>
         <div class="research">
-          <div class="pub-card" id="srthesis">
-            <strong>Hierarchical Developmental RL</strong><br>
-            <em>Senior Thesis at Princeton University, Present</em><br>
-            <p>
-              This work introduces a hierarchical reinforcement learning framework inspired by human developmental trajectories. Individual motor skills are trained separately with their own policies and value functions. A higher-level controller then selects among these skills by consulting their value functions, enabling online composition and recovery if the agent falls. So far, we've tested our approach in toy environments (LunarLander, Cartpole swing-up) and are working to extend the method to full Humanoid locomotion.
-            </p>
-          </div>
           <div class="pub-card" id="jrthesis">
             <strong>Learning to Walk Like Humans Do</strong><br>
             <em> Junior Thesis at Princeton University, Spring 2025</em><br>
