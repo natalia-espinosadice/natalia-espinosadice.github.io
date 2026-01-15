@@ -19,6 +19,7 @@ title = 'Home'
         <a href="https://github.com/natalia-espinosadice" title="GitHub"><i class="fab fa-github"></i></a>
         <a href="https://www.linkedin.com/in/natalia-espinosa-dice" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
         <a href="mailto:nespinosadice22@gmail.com" title="Email"><i class="fa-solid fa-envelope"></i></a>
+        <a href="https://scholar.google.com/citations?user=zDVmnM4AAAAJ&hl=en&oi=sra" title="Google Scholar"><i class="fa-solid fa-graduation-cap"></i></a>
       </div>
     </aside>
     <div class ="rightcol">
