@@ -15,7 +15,7 @@ title = 'Home'
         <a href = "/CV.pdf" title="CV"><i class="ai ai-cv"></i></a>
         <a href="https://github.com/natalia-espinosadice" title="GitHub"><i class="fab fa-github"></i></a>
         <a href="https://www.linkedin.com/in/natalia-espinosa-dice" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-        <a href="mailto:nespinosadice22@gmail.com" title="Email"><i class="fas fa-envelope"></i></a>
+        <a href="mailto:nespinosadice22@gmail.com" title="Email"><i class="fa-solid fa-envelope"></i></a>
       </div>
     </aside>
     <div class ="rightcol">
