@@ -15,7 +15,7 @@ title = 'Home'
         Princeton University
       </p>
       <div class="icon-row">
-        <a href="/CV.pdf" title="CV"><i class="fa-regular fa-file-lines"></i></a>
+        <a href="/cvv.pdf" title="CV"><i class="fa-regular fa-file-lines"></i></a>
         <a href="https://github.com/natalia-espinosadice" title="GitHub"><i class="fab fa-github"></i></a>
         <a href="https://www.linkedin.com/in/natalia-espinosa-dice" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
         <a href="mailto:nespinosadice22@gmail.com" title="Email"><i class="fa-solid fa-envelope"></i></a>
