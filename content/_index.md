@@ -25,7 +25,7 @@ title = 'Home'
     <div class ="rightcol">
         <main class="content">
         <p>
-            I am a first-year Master's student in Computer Science at McGill University and MILA, where I am advised by <a href = "https://mila.quebec/en/directory/siamak-ravanbakhsh"> Siamak Ravanbakhsh </a>. I completed my undergraduate degree in Computer Science at Princeton University, where I was advised by <a href = "https://cocosci.princeton.edu/tom/index.php"> Tom Griffiths </a>. There, I pursued minors in Cognitive Science and Latin American Studies, and I served as a <a href = "https://writing.princeton.edu/undergraduates/writing-center"> Writing Center </a> Head Fellow and Editor-In-Chief of the <a href="https://tortoise.princeton.edu/"><i>Tortoise</i></a> Journal. 
+            I am a first-year Master's student in Computer Science at McGill University and MILA, advised by <a href = "https://mila.quebec/en/directory/siamak-ravanbakhsh"> Siamak Ravanbakhsh </a>. I completed my undergraduate degree in Computer Science at Princeton University, where I was advised by <a href = "https://cocosci.princeton.edu/tom/index.php"> Tom Griffiths </a>. There, I pursued minors in Cognitive Science and Latin American Studies, and I served as a <a href = "https://writing.princeton.edu/undergraduates/writing-center"> Writing Center </a> Head Fellow and Editor-In-Chief of the <a href="https://tortoise.princeton.edu/"><i>Tortoise</i></a> Journal. 
         </p>
         <p>
             I am broadly interested in <strong>reinforcement learning</strong> as a methodology for building more efficient,
