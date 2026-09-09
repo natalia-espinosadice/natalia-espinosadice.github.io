@@ -29,7 +29,7 @@ title = 'Home'
         </p>
         <p>
             I am broadly interested in <strong>reinforcement learning</strong> as a methodology for building more efficient,
-            generalizable and structured AI systems. My <a href = "#srthesis"> undergraduate senior thesis</a> investigated the challenge of learning long-horizon humanoid locomotion in high-dimensional continuous control, where naïve RL faces an enormous exploration burden. I developed a hierarchical reinforcement learning framework that leveraged insights from human motor development to decompose locomotion into a sequence of tractable postural skills. My thesis was awarded the <a href = "https://cogsci.princeton.edu/news/announcing-2026-winners-senior-thesis-prizes-cognitive-science"> George A. Miller Prize in Cognitive Science </a> and the Sigma Xi Book Award. 
+            generalizable and structured AI systems. My <a href = "#srthesis"> undergraduate senior thesis</a> investigated the challenge of learning long-horizon humanoid locomotion in high-dimensional continuous control, where naïve RL faces an enormous exploration burden. I developed a hierarchical reinforcement learning framework that leveraged insights from human motor development to decompose locomotion into a sequence of tractable postural skills. My thesis was awarded the <a href = "https://cogsci.princeton.edu/news/announcing-2026-winners-senior-thesis-prizes-cognitive-science"> George A. Miller Prize in Cognitive Science</a> and the Sigma Xi Book Award. 
         </p> 
         <p>  
             Under the mentorship of Brad Malin at Vanderbilt University Medical Center, I developed a
