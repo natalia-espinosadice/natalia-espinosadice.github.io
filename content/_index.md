@@ -106,7 +106,7 @@ title = 'Home'
           </div>
         </div>
         <hr style="border: 0; border-top: 1px solid #ddd; margin: 2em 0;">
-        Last updated October 2025
+        Last updated September 2026
         </main>  
     </div>
   </div>
