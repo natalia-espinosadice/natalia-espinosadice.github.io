@@ -25,25 +25,24 @@ title = 'Home'
     <div class ="rightcol">
         <main class="content">
         <p>
-            I am a senior undergraduate in Computer Science at Princeton University, where I am advised by <a href = "https://cocosci.princeton.edu/tom/index.php"> Tom Griffiths </a>. I am pursuing minors in Cognitive Science and Latin American Studies. I also serve as a <a href = "https://writing.princeton.edu/undergraduates/writing-center"> Writing Center </a> Head Fellow and Editor-In-Chief of the <a href="https://tortoise.princeton.edu/"><i>Tortoise</i></a> Journal.
+            I am a first-year Master's student in Computer Science at McGill University and MILA, where I am advised by <a href = "https://mila.quebec/en/directory/siamak-ravanbakhsh"> Siamak Ravanbakhsh </a>. I completed my undergraduate degree in Computer Science at Princeton University, where I was advised by <a href = "https://cocosci.princeton.edu/tom/index.php"> Tom Griffiths </a>. There, I pursued minors in Cognitive Science and Latin American Studies, and I served as a <a href = "https://writing.princeton.edu/undergraduates/writing-center"> Writing Center </a> Head Fellow and Editor-In-Chief of the <a href="https://tortoise.princeton.edu/"><i>Tortoise</i></a> Journal. 
         </p>
         <p>
             I am broadly interested in <strong>reinforcement learning</strong> as a methodology for building more efficient,
-            generalizable and structured AI systems. Under the mentorship of Brad Malin at Vanderbilt University Medical Center, I developed a
+            generalizable and structured AI systems. My <a href = "#srthesis"> undergraduate senior thesis </a> investigated the challenge of learning long-horizon humanoid locomotion in high-dimensional continuous control, where naïve RL faces an enormous exploration burden. I developed a hierarchical reinforcement learning framework that leveraged insights from human motor development to decompose locomotion into a sequence of tractable postural skills. My thesis was awarded the <a href = "https://cogsci.princeton.edu/news/announcing-2026-winners-senior-thesis-prizes-cognitive-science"> George A. Miller Prize in Cognitive Science </a> and the Sigma Xi Book Award. 
+        </p> 
+        <p>  
+            Under the mentorship of Brad Malin at Vanderbilt University Medical Center, I developed a
             <a href = "#publications">
             sample-efficient RL-based generative model for privacy-preserving synthetic health data
             </a>
             that outperformed existing state-of-the-art GAN and diffusion models, particularly when confronted with limited
-            training samples. For my
-            <a href = "#jrthesis">junior thesis</a> at Princeton, I explored how an agent
-            could ‘learn to walk like humans do’ via a developmentally inspired RL curriculum and expanding neural networks.
-            My <a href="#srthesis">senior thesis</a> extends this work by introducing a
-            hierarchical RL framework that sequences motor skills through value functions, enabling online composition. 
+            training samples. In subsequent work, this framework was extended with regression-based rewards to improve the preservation of statistical relationships in synthetic data. I also contributed to the Synthetic AI-READI dataset, a multimodal synthetic cohort for Type 2 Diabetes research now publically available. 
         </p>
         <p>
             My research is more broadly motivated by human-centered AI: both how AI can help humans, and how insights from human learning and cognition can inspire more efficient algorithms. Previously, I’ve worked on various applications of machine learning in healthcare settings. Under the mentorship of Weiqing Gu at <a href = https://data-to-decision.com/ >Dasion </a>, I built a
             <a href="#dasion">voice analysis model</a> to detect various medical conditions—including autism, diabetes and depression—from audio data. I also spent a summer at the University of Macedonia–Thessaloniki, where I built a
-            <a href="#umacedonia">stacked autoencoder model</a> to classify MRI brain scans as autistic or normally developing.
+            <a href="#umacedonia">stacked autoencoder model</a> to classify MRI brain scans from autistic and neurotypical individuals. 
         </p>
         <p>
         <strong>I am applying to PhD programs this application cycle.</strong>
@@ -68,15 +67,14 @@ reinforcement learning provides a principled and effective approach for syntheti
         <hr style="border: 0; border-top: 1px solid #ddd; margin: 2em 0;">
         <h2>Research</h2>
         <div class="research">
-          <div class="pub-card" id="jrthesis">
-            <strong>Learning to Walk Like Humans Do</strong><br>
-            <em> Junior Thesis at Princeton University, Spring 2025</em><br>
-            <a href="/juniorthesis_spring25.pdf">PDF</a> | 
-            <a href="https://github.com/natalia-espinosadice/learning-to-walk-rl">Code</a>
+          <div class="pub-card" id="srthesis">
+            <strong>Learning to Walk Like Humans Do: A Developmental Approach to Locomotion in Deep RL </strong><br>
+            <em> Senior Thesis at Princeton University, Spring 2026</em><br>
+            <a href="/seniorthesis.pdf">PDF</a> | 
             <p>
-              This project explored how principles of human motor development could improve reinforcement learning for humanoid locomotion. 
-              Two strategies were investigated in parallel: (i) a curriculum of locomotion subtasks aligned with developmental milestones 
-              (ex: crawling before standing) and (ii) progressively expanding neural networks that “grow” in depth or width as task complexity increases. Baseline results highlighted both the promise and the challenges of transferring knowledge across subtasks. These experiments laid the groundwork for the senior thesis work detailed above.
+              Humans learn to stand and walk within a matter of months, exploiting a reliable sequence of postural milestones that partitions the full motor configuration space into a series of stable, tractable subproblems. In contrast, humanoid agents trained with standard reinforcement learning (RL) enjoy no such structure, confronting the full complexity of locomotion at once and facing an enormous exploration burden in
+              high-dimensional continuous control. To address this, we propose a hierarchical reinforcement learning (HRL) framework that leverages the structure of human motor development by training each key postural transition—prone-to-crawl, crawl-to-kneel, kneel-to-lunge, lunge-to-stand and stand-to-walk—as a distinct low-level policy, thus imposing a developmental prior over the skill set. A high-level policy then learns to coordinate these motor skills via the Value Function Spaces (VFS) framework. We first validate our approach in LunarLander and BipedalWalker before applying it to Humanoid, where developmental structure directly informs the skill decomposition. Against flat RL baselines and HRL methods that discover structure from experience, our approach achieves upright posture in over 90% of evaluation episodes and completes the full developmental sequence in over 85%, while all baselines plateau at intermediate configurations. Our findings suggest that developmentally grounded structural priors substantially reduce the exploration burden of complex locomotion
+              learning, enabling reliable postural progression where reward engineering, intrinsic motivation and emergent hierarchies fall short.
             </p>
           </div>
           <div class="pub-card">
