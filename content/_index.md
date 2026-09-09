@@ -34,7 +34,7 @@ title = 'Home'
         <p>  
             Under the mentorship of Brad Malin at Vanderbilt University Medical Center, I developed a
             <a href = "#rlsyn"> sample-efficient RL-based generative model for privacy-preserving synthetic health data </a>
-            that outperformed existing state-of-the-art GAN and diffusion models, particularly when confronted with limited training samples. In subsequent work, this <a href = "#regression"> framework was extended with regression-based rewards </a> to improve the preservation of statistical relationships in synthetic data. I also contributed to the <a href = "https://aws.amazon.com/marketplace/pp/prodview-mxp3i7s3ugkxq"> Synthetic AI-READI dataset <a>, a multimodal synthetic cohort for Type 2 Diabetes research now publically available. 
+            that outperformed existing state-of-the-art GAN and diffusion models, particularly when confronted with limited training samples. In subsequent work, this <a href = "#regression"> framework was extended with regression-based rewards </a> to improve the preservation of statistical relationships in synthetic data. I also contributed to the <a href = "https://aws.amazon.com/marketplace/pp/prodview-mxp3i7s3ugkxq"> Synthetic AI-READI dataset </a>, a multimodal synthetic cohort for Type 2 Diabetes research now publically available. 
         </p>
         <p>
             My research is more broadly motivated by human-centered AI: both how AI can help humans, and how insights from human learning and cognition can inspire more efficient algorithms. Previously, I’ve worked on various applications of machine learning in healthcare settings. Under the mentorship of Weiqing Gu at <a href = https://data-to-decision.com/ >Dasion </a>, I built a
