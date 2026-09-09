@@ -63,7 +63,7 @@ title = 'Home'
           <div class="pub-card" id="srthesis">
             <strong>Learning to Walk Like Humans Do: A Developmental Approach to Locomotion in Deep RL </strong><br>
             <em> Senior Thesis at Princeton University, Spring 2026</em><br>
-            <em> 2026 George A. Miller Prize in Cognitive Science and the Sigma Xi Book Award. </em><br>
+            <em> 2026 George A. Miller Prize in Cognitive Science and Sigma Xi Book Award </em><br>
             <a href="/seniorthesis.pdf">PDF</a> | 
             <p>
               Humans learn to stand and walk within a matter of months, exploiting a reliable sequence of postural milestones that partitions the full motor configuration space into a series of stable, tractable subproblems. In contrast, humanoid agents trained with standard reinforcement learning (RL) enjoy no such structure, confronting the full complexity of locomotion at once and facing an enormous exploration burden in
