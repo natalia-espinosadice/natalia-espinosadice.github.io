@@ -12,7 +12,7 @@ title = 'Home'
       <h3 class="profile-name">Natalia Espinosa Dice</h3>
       <p class="affil">
         Department of Computer Science<br>
-        Princeton University
+        McGill University and MILA
       </p>
       <div class="icon-row">
         <a href="/CV.pdf" title="CV"><i class="fa-regular fa-file-lines"></i></a>
