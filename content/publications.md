@@ -11,7 +11,7 @@ reinforcement learning provides a principled and effective approach for syntheti
 <br>
 <div class="pub-card">
     <strong>Reward-Guided Generation Improves the Scientific Utility of Synthetic Biomedical Data</strong><br>
-    <a href="https://www.medrxiv.org/content/10.64898/2026.03.11.26348077v1.full.pdf">Preprint; </a> <em> Under Review </em> <br>
+    <em> Proceedings of the AMIA 2026 Annual Symposium </em> <a href="https://www.medrxiv.org/content/10.64898/2026.03.11.26348077v1.full.pdf"> Paper </a> <br>
     Synthetic data generation is a promising approach for biomedical data sharing and dataset augmentation, yet existing methods lack mechanisms to preserve statistical properties necessary for scientific analysis. To address this, we introduce RLSYN+REG, a reinforcement learning-driven generative model, which encourages that regression models trained on synthetic data reproduce the coefficients and predictions of their real-data counterparts. We evaluate RLSYN+REG on MIMIC-III and the American Community Survey (ACS) across regression model reproduction, fidelity to real data, and privacy. Synthetic data from RLSYN+REG substantially improves upon that of RLSYN, raising correlations between real and synthetic regression coefficients from 0.054 to 0.600 on MIMIC-III and from 0.160 to 0.376 on ACS. Predictive performance also improves, reducing the gap between real-data baselines by 81.4% and 97.6% on MIMIC-III and ACS, respectively. These improvements come with negligible cost to fidelity or privacy and are robust to reductions in training data.
 </div>
 
