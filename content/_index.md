@@ -37,9 +37,7 @@ title = 'Home'
             that outperformed existing state-of-the-art GAN and diffusion models, particularly when confronted with limited training samples. In subsequent work, this <a href = "#regression"> framework was extended with regression-based rewards</a> to improve the preservation of statistical relationships in synthetic data. I also contributed to the <a href = "https://www.nature.com/articles/s41597-026-08501-8"> Synthetic AI-READI dataset</a>, a multimodal synthetic cohort for Type 2 Diabetes research now publicly available. 
         </p>
         <p>
-            My research is more broadly motivated by human-centered AI: both how AI can help humans, and how insights from human learning and cognition can inspire more efficient algorithms. Previously, I’ve worked on various applications of machine learning in healthcare settings. Under the mentorship of Weiqing Gu at <a href = https://data-to-decision.com/ >Dasion</a>, I built a
-            <a href="#dasion">voice analysis model</a> to detect various medical conditions—including autism, diabetes and depression—from audio data. I also spent a summer at the University of Macedonia–Thessaloniki, where I built a
-            <a href="#umacedonia">stacked autoencoder model</a> to classify MRI brain scans from autistic and neurotypical individuals. 
+            My research is more broadly motivated by human-centered AI: both how AI can help humans, and how insights from human learning and cognition can inspire more efficient algorithms. I am increasingly interested in AI safety, particularly in understanding how reinforcement learning and other training procedures shape model behavior, and in using interpretability tools to explain that behavior and make it safer.
         </p>
         <hr style="border: 0; border-top: 1px solid #ddd; margin: 2em 0;">
         <h2 id="publications">Publications</h2>
