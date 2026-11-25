@@ -34,7 +34,7 @@ title = 'Home'
         <p>  
             Under the mentorship of Brad Malin at Vanderbilt University Medical Center, I developed a
             <a href = "#rlsyn"> sample-efficient RL-based generative model for privacy-preserving synthetic health data</a>
-            that outperformed existing state-of-the-art GAN and diffusion models, particularly when confronted with limited training samples. In subsequent work, this <a href = "#regression"> framework was extended with regression-based rewards</a> to improve the preservation of statistical relationships in synthetic data. I also contributed to the <a href = "https://www.nature.com/articles/s41597-026-08501-8"> Synthetic AI-READI dataset</a>, a multimodal synthetic cohort for Type 2 Diabetes research now publicly available. 
+            that outperformed existing state-of-the-art GAN and diffusion models, particularly when confronted with limited training samples. In subsequent work, this <a href = "#regression"> framework was extended with regression-based rewards</a> to improve the preservation of statistical relationships in synthetic data, which received the 2026 AMIA KDDM Working Group Innovation Award. I also contributed to the <a href = "#scidata"> Synthetic AI-READI dataset</a>, a multimodal synthetic cohort for Type 2 Diabetes research now publicly available. 
         </p>
         <p>
             My research is more broadly motivated by human-centered AI: both how AI can help humans, and how insights from human learning and cognition can inspire more efficient algorithms. I am increasingly interested in AI safety, particularly in understanding how reinforcement learning and other training procedures shape model behavior, and in using interpretability tools to explain that behavior and make it safer.
@@ -50,12 +50,13 @@ title = 'Home'
         </div>
         <div class="pub-card" id = "regression">
           <strong>Reward-Guided Generation Improves the Scientific Utility of Synthetic Biomedical Data</strong><br>
-          <em> Proceedings of the AMIA 2026 Annual Symposium</em> | <a href="https://www.medrxiv.org/content/10.64898/2026.03.11.26348077v1.full.pdf">Paper</a>
+          <em> Proceedings of the AMIA 2026 Annual Symposium</em> | <a href="https://www.medrxiv.org/content/10.64898/2026.03.11.26348077v1.full.pdf">Paper</a> <br>
+          <em> KDDM Working Group Innovation Award </em> <br>
           <p>
            Synthetic data generation is a promising approach for biomedical data sharing and dataset augmentation, yet existing methods lack mechanisms to preserve statistical properties necessary for scientific analysis. To address this, we introduce RLSYN+REG, a reinforcement learning-driven generative model, which encourages that regression models trained on synthetic data reproduce the coefficients and predictions of their real-data counterparts. We evaluate RLSYN+REG on MIMIC-III and the American Community Survey (ACS) across regression model reproduction, fidelity to real data, and privacy. Synthetic data from RLSYN+REG substantially improves upon that of RLSYN, raising correlations between real and synthetic regression coefficients from 0.054 to 0.600 on MIMIC-III and from 0.160 to 0.376 on ACS. Predictive performance also improves, reducing the gap between real-data baselines by 81.4% and 97.6% on MIMIC-III and ACS, respectively. These improvements come with negligible cost to fidelity or privacy and are robust to reductions in training data.
           </p>
         </div>
-        <div class="pub-card" id = "regression">
+        <div class="pub-card" id = "scidata">
           <strong>A Synthetic Multi-modal Dataset for Type 2 Diabetes</strong><br>
           <em> Scientific Data</em> | <a href=https://www.nature.com/articles/s41597-026-08501-8>Paper</a>
           <p>
