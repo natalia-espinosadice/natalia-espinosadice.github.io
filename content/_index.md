@@ -32,12 +32,12 @@ title = 'Home'
             generalizable and structured AI systems. My <a href = "#srthesis"> undergraduate senior thesis</a> investigated the challenge of learning long-horizon humanoid locomotion in high-dimensional continuous control, where naive RL faces an enormous exploration burden. I developed a hierarchical reinforcement learning framework that leveraged insights from human motor development to decompose locomotion into tractable postural skills and learn a high-level policy to compose them. My thesis was awarded the <a href = "https://cogsci.princeton.edu/news/announcing-2026-winners-senior-thesis-prizes-cognitive-science"> George A. Miller Prize in Cognitive Science </a>. 
         </p> 
         <p>  
-            Under the mentorship of Brad Malin at Vanderbilt University Medical Center, I developed a
+            Under the mentorship of Prof. Brad Malin at Vanderbilt University Medical Center, I developed a
             <a href = "#rlsyn"> sample-efficient RL-based generative model for privacy-preserving synthetic health data</a>
             that outperformed existing state-of-the-art GAN and diffusion models, particularly when confronted with limited training samples. In subsequent work, this <a href = "#regression"> framework was extended with regression-based rewards</a> to improve the preservation of statistical relationships in synthetic data, which received the 2026 AMIA KDDM Working Group Innovation Award. I also contributed to the <a href = "#scidata"> Synthetic AI-READI dataset</a>, a multimodal synthetic cohort for Type 2 Diabetes research now publicly available. 
         </p>
         <p>
-            My research is more broadly motivated by human-centered AI: both how AI can help humans, and how insights from human learning and cognition can inspire more efficient algorithms. I am increasingly interested in AI safety, particularly in understanding how reinforcement learning and other training procedures shape model behavior, and in using interpretability tools to explain that behavior and make it safer.
+            My research is more broadly driven by three commitments to human-centered AI: building systems aligned with human values, instilling the learning principles and inductive biases that humans use, and understanding models well enough to trust them in high-stakes settings. This has increasingly drawn me to AI safety, particularly to understanding how reinforcement learning and other training procedures shape model behavior, and to using interpretability tools to explain that behavior and make it safer.
         </p>
         <hr style="border: 0; border-top: 1px solid #ddd; margin: 2em 0;">
         <h2 id="publications">Publications</h2>
