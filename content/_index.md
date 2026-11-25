@@ -37,7 +37,7 @@ title = 'Home'
             that outperformed existing state-of-the-art GAN and diffusion models, particularly when confronted with limited training samples. In subsequent work, we extended this <a href = "#regression"> framework with regression-based rewards</a> to improve the preservation of statistical relationships in synthetic data. This work received the 2026 AMIA KDDM Working Group Innovation Award. I also contributed to the <a href = "#scidata"> Synthetic AI-READI dataset</a>, a multimodal synthetic cohort for Type 2 Diabetes research now publicly available. 
         </p>
         <p>
-            My research is more broadly driven by three commitments to human-centered AI: building systems aligned with human values, instilling the learning principles and inductive biases that humans use, and understanding models well enough to trust them in high-stakes settings. This has increasingly drawn me to AI safety, particularly to understanding how reinforcement learning and other training procedures shape model behavior, and to using interpretability tools to explain that behavior and make it safer.
+            My research is more broadly driven by three commitments to human-centered AI: building systems aligned with human values, instilling the learning principles and inductive biases that humans use, and understanding models well enough to trust them in high-stakes settings. I am increasingly drawn to AI safety, particularly to understanding how reinforcement learning and other training procedures shape model behavior, and to using interpretability tools to explain that behavior and make it safer.
         </p>
         <hr style="border: 0; border-top: 1px solid #ddd; margin: 2em 0;">
         <h2 id="publications">Publications</h2>
